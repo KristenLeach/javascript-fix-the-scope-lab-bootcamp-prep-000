@@ -1,19 +1,19 @@
 var animal = 'dog'
 
 function myAnimal() {
-  return animal
+  return animal;
 }
 
 function yourAnimal() {
-  var animal = 'cat'
-  return animal
+  var animal = 'cat';
+  return animal;
 }
 
 function add2(n) {
-  return n + two
-
+  const two = 2;
+  return n + two;
   // Feel free to move things around!
-  const two = 2
+  
 }
 
 var funkyFunction = function() {
